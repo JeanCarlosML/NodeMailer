@@ -1,6 +1,6 @@
 # NODEMAILER
 
-<p>Para instalar dependencias use :</p>
+Para instalar dependencias use :
 ```javascript
 npm install
 ```
